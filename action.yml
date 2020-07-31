@@ -1,0 +1,5 @@
+name: 'Public Action (test)'
+description: 'This is for @jenschelkopf to test out GH Actions'
+runs:
+  using: 'node12'
+  main: 'index.js'
